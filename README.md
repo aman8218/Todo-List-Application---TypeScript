@@ -11,10 +11,10 @@ A modern, full-stack todo list application built with React, TypeScript, Node.js
 ## 📸 Screenshots
 
 ### Desktop View
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+![Dashboard](./screenshots/desktop-view.png)
 
 ### Mobile View
-![Mobile](https://via.placeholder.com/400x800?text=Mobile+Screenshot)
+![Mobile](./screenshots/mobile-view.png)
 
 > **Note**: Replace placeholder images with your actual screenshots
 
