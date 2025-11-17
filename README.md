@@ -4,9 +4,12 @@ A modern, full-stack todo list application built with React, TypeScript, Node.js
 
 ## 🎥 Demo Video
 
-[**Watch Demo Video**](YOUR_GOOGLE_DRIVE_LINK_HERE)
+[**Watch Demo Video**](https://www.loom.com/share/5762fabd114f4212934027daab2be34e)
 
-> **Note**: Replace `YOUR_GOOGLE_DRIVE_LINK_HERE` with your actual Google Drive video link
+## Live Link
+
+[**Live Deployed Link**](https://todo-list-application-type-script.vercel.app/)
+
 
 ## 📸 Screenshots
 
@@ -16,7 +19,6 @@ A modern, full-stack todo list application built with React, TypeScript, Node.js
 ### Mobile View
 ![Mobile](./screenshots/mobile-view.png)
 
-> **Note**: Replace placeholder images with your actual screenshots
 
 ## ✨ Features
 
