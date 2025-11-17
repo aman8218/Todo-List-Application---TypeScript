@@ -1,5 +1,5 @@
 import { Response } from 'express';
-import Todo from '../models/ToDo';
+import Todo from '../models/Todo';
 import { AuthRequest } from '../middleware/auth';
 
 // @desc    Get all todos for logged in user
